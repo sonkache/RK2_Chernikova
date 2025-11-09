@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/../config.php'; session_destroy(); header('Location: /primer_shop/index.php'); 
